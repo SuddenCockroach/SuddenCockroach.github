@@ -167,7 +167,6 @@ nav.active{
 
 
 .main-feautred{
-    border: 1px solid green;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -223,7 +222,6 @@ nav.active{
 
   .who {
     width: 100%;
-    border: 1px solid green;
     margin-top: 10%;
     font-family: Arial, sans-serif;
     line-height: 5;
